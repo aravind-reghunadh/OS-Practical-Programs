@@ -7,3 +7,4 @@ the fundamental part of every computing device to run any type of software.
 
 Prerequisite: Topics covered in the courses are Data Structures (CST 201) and Programming
 in C (EST 102)
+For KTU 4th Semester.
